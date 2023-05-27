@@ -1,0 +1,8 @@
+{
+    "api_key":"dcfd8ecf-f033-421c-866c-5bd2cdc55096",
+    "env": "asia-southeast1-gcp-free",
+    "index_name": "ai-semantic-search",
+    "metric": "cosine",
+    "embedding_dim":"768"
+}
+
